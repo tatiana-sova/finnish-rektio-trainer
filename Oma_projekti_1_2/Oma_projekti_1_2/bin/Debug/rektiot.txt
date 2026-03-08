@@ -1,0 +1,10 @@
+ALLATIIVI:jollekin;
+ADESSIIVI:jollakin;
+ABLATIIVI:joltakin;
+ESSIIVI:jonakin;
+TRANSLATIIVI:joksikin;
+INESSIIVI:jossakin;
+GENETIIVI:jonkun;
+ELATIIVI:jostakin;
+ILLATIIVI:johonkin;
+PARTITIIVI:jotakin;

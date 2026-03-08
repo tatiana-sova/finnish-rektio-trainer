@@ -1,0 +1,66 @@
+PUHUA|verbi|ELATIIVI:jostakin;|He puhuivat politiikasta koko illan.|He puhuivat (POLITIKKA) koko illan. 
+YLPEÄ|adjektiivi|ELATIIVI:jostakin;|Ylpeä työstään.|Ylpeä (TYÖ).
+TÄRKEÄ|adjektiivi|ALLATIIVI:jollekin;|Tärkeä minulle.|Tärkeä (MINÄ).
+RAKASTAA|verbi|PARTITIIVI:jotakin;|Rakastaa musiikkia.|Rakastaa (MUSIIKKI).
+USKOTON|adjektiivi|ALLATIIVI:jollekin;|Uskoton puolisolle.|Uskoton (PUOLISO).
+UPPOUTUNUT|adjektiivi|ILLATIIVI:johonkin;|Uppoutunut peliin.|Uppoutunut (PELI).
+UPOTA|verbi|ILLATIIVI:johonkin;|Laiva upposi mereen.|Laiva upposi (MERI).
+UJOSTELLA|verbi|PARTITIIVI:jotakin;|Ujostella ihmisiä.|Ujostella (IHMINEN).
+KYSYÄ|verbi|PARTITIIVI:jotakin;|Kysyä tietoa kaupungista.|Kysyä (TIETO) kaupungista.
+KERTOA|verbi|PARTITIIVI:jotakin;|Kertoa tarinaa.|Kertoa (TARINA).
+KESKUSTELLA|verbi|ELATIIVI:jostakin;|Keskustella säästä.|Keskustella (SÄÄ).
+ANTAA|verbi|ALLATIIVI:jollekin;|Antaa lahja ystävälle.|Antaa lahja (YSTÄVÄ).
+TOTTUA|verbi|ILLATIIVI:johonkin;|Tottua uuteen kouluun.|Tottua (UUSI KOULU).
+RAKASTUA|verbi|ILLATIIVI:johonkin;|Rakastua uuteen kaupunkiin.|Rakastua (UUSI KAUPUNKI).
+LÖYTÄÄ|verbi|ELATIIVI:jostakin;|Löytää kirja hyllystä.|Löytää kirja (HYLLY).
+RIIPPUA|verbi|ELATIIVI:jostakin;|Riippua säästä.|Riippua (SÄÄ).
+NAUTTIA|verbi|ELATIIVI:jostakin;|Nauttia auringosta.|Nauttia (AURINKO).
+ETSIÄ|verbi|ELATIIVI:jostakin;|Etsiä avaimia pöydästä.|Etsiä avaimia (PÖYTÄ).
+ODOTTAA|verbi|PARTITIIVI:jotakin;|Odottaa bussia.|Odottaa (BUSSI).
+AJATELLA|verbi|PARTITIIVI:jotakin;|Ajatella asiaa.|Ajatella (ASIA).
+TYYTYVÄINEN|adjektiivi|ILLATIIVI:johonkin;|Olen tyytyväinen työhöni.|Olen tyytyväinen (TYÖ).
+LÄHELLÄ|postpositio|PARTITIIVI:jotakin;|Penki on lähellä puuta.|Penki on lähellä (PUU).
+TAKANA|postpositio|GENETIIVI:jonkun;|Puu on talon takana.|Puu on (TALO) takana.
+TUTUSTUA|verbi|ILLATIIVI:johonkin;|Tutustua kulttuuriin.|Tutustua (KULTTUURI).
+ENNEN|prepositio|PARTITIIVI:jotakin;|Ennen koulua. Ennen töitä.|Ennen (KOULU). Ennen (TYÖ).
+LAHJA|substantiivi|ALLATIIVI:jollekin;|Antaa lahja ystävälle.|Antaa lahja (YSTÄVÄ).
+UHKA|substantiivi|ELATIIVI:jostakin;|Uhka sodasta.|Uhka (SOTA).
+SIIRTYMINEN|substantiivi|ILLATIIVI:johonkin;|Siirtyminen uuteen elämänvaiheeseen.|Siirtyminen (UUSI ELÄMÄNVAIHE).
+LUOTTAMUS|substantiivi|ILLATIIVI:johonkin;|Luottamus ystävään.|Luottamus (YSTÄVÄ).
+ERO|substantiivi|ELATIIVI:jostakin;|Ero aiemmasta suunnitelmasta.|Ero (AIEMPI SUUNNITELMA).
+MUISTO|substantiivi|ELATIIVI:jostakin;|Muisto matkasta.|Muisto (MATKA).
+KOKEMUS|substantiivi|ELATIIVI:jostakin;|Kokemus työstä.|Kokemus (TYÖ).
+ETSINTÄ|substantiivi|ELATIIVI:jostakin;|Etsintä koirasta.|Etsintä (KOIRA).
+ODOTUS|substantiivi|PARTITIIVI:jotakin;|Odotus ystävää.|Odotus (YSTÄVÄ).
+PELKO|substantiivi|ELATIIVI:jostakin;|Pelko pimeästä.|Pelko (PIMEÄ).
+PUUTE|substantiivi|ELATIIVI:jostakin;|Puute ajasta. Puute resursseista.|Puute (AIKA). Puute (RESURSSI).
+OSA|substantiivi|ELATIIVI:jostakin;|Osa ajasta. Osa rahasta.|Osa (AIKA). Osa (RAHA).
+AUTTAA|verbi|PARTITIIVI:jotakin;|Auttaa lasta.|Auttaa (LAPSI).
+KÄYDÄ|verbi|INESSIIVI:jossakin;|Käydä kaupassa.|Käydä (KAUPPA).
+APU|substantiivi|ABLATIIVI:joltakin;|Apu opettajalta.|Apu (OPETTAJA).
+APU|substantiivi|ALLATIIVI:jollekin;|Apu lapsille.|Apu (LAPSI).
+PUHUA|verbi|PARTITIIVI:jotakin;|Puhua suomea.|Puhua (SUOMI).
+PUHUA|verbi|ALLATIIVI:jollekin;|Puhua ystävälle.|Puhua (YSTÄVÄ).
+LÄHELLÄ|postpositio|GENETIIVI:jonkun;|Asumme koulun lähellä.|Asumme (KOULU) lähellä.
+PERUSTEELLA|postpositio|GENETIIVI:jonkun;|Lain perusteella.|(LAKI) perusteella. 
+TAKIA|postpositio|GENETIIVI:jonkun;|Lapset muuttivat kaupungin työn takia.|Lapset muuttivat kaupunkiin (TYÖ) takia.
+PITKIN|postpositio|PARTITIIVI:jotakin;|Tietä pitkin.|(TIE) pitkin.
+MYÖTEN|postpositio|PARTITIIVI:jotakin;|Jokea myöten.|(JOKI) myöten.
+LÄHTIEN|postpositio|ELATIIVI:jostakin;|Maanantaista lähtien.|(MAANANTAI) lähtien.
+ALKAEN|postpositio|ELATIIVI:jostakin;|Toukokuusta alkaen.|(TOUKOKUU) alkaen.
+PÄIN|postpositio|ILLATIIVI:johonkin;|Kaupunkiin päin.|(KAUPUNKI) päin.
+ILMAN|prepositio|PARTITIIVI:jotakin;|Ilman rahaa.|Ilman (RAHA).
+KOHTI|prepositio|PARTITIIVI:jotakin;|Kohti keskustaa.|Kohti (KESKUSTA).
+VARTEN|postpositio|PARTITIIVI:jotakin;|Sinua varten.|(SINÄ) varten.
+KESKELLÄ|prepositio|PARTITIIVI:jotakin;|Keskellä metsää.|Keskellä (METSÄ).
+YMPÄRI|prepositio|PARTITIIVI:jotakin;|Ympäri maailmaa.|Ympäri (MAAILMA).
+LÄPI|prepositio|PARTITIIVI:jotakin;|Läpi metsää.|Läpi (METSÄ).
+ALKU|substantiivi|ELATIIVI:jostakin;|Kaikki muuttui alku vuodesta.|Kaikki muuttui alku (VUOSI).
+KYSYÄ|verbi|ALLATIIVI:jollekin;|Kysyn opettajalta.|Kysyn (OPETTAJA).
+KERTOA|verbi|ALLATIIVI:jollekin;|Kerron sinulle uutisia.|Kerron (SINÄ) uutisia.
+ANTAA|verbi|PARTITIIVI:jotakin;|Antaa rahaa.|Antaa (RAHA).
+ETSIÄ|verbi|PARTITIIVI:jotakin;|Etsiä kirjaa.|Etsiä (KIRJA).
+AUTTAA|verbi|ELATIIVI:jostakin;|Opettaja auttoi oppilaita vaikeasta tehtavasta.|Opettaja auttoi oppilaita (VAIKEA TEHTÄVÄ).
+OSALLISTUA|verbi|ILLATIIVI:johonkin;|Osallistua kilpailuun.|Osallistua (KILPAILU).
+KYSYÄ|verbi|ELATIIVI:jostakin;|Kysyä tietoa kaupungista.|Kysyä tietoa (KAUPUNKI).
+ALLERGINEN|adjektiivi|ALLATIIVI:jollekin;|Olen allerginen siitepolylle.|Olen allerginen (SIITEPOLY).

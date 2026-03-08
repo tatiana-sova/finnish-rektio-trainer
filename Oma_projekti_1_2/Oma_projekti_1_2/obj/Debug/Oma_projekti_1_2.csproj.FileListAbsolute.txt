@@ -1,0 +1,14 @@
+C:\Users\183105\OneDrive - Salon seudun koulutuskuntayhtymä\C#\Tulostus\Oma_projekti_1_2\Oma_projekti_1_2\bin\Debug\Oma_projekti_1_2.exe.config
+C:\Users\183105\OneDrive - Salon seudun koulutuskuntayhtymä\C#\Tulostus\Oma_projekti_1_2\Oma_projekti_1_2\bin\Debug\Oma_projekti_1_2.exe
+C:\Users\183105\OneDrive - Salon seudun koulutuskuntayhtymä\C#\Tulostus\Oma_projekti_1_2\Oma_projekti_1_2\bin\Debug\Oma_projekti_1_2.pdb
+C:\Users\183105\OneDrive - Salon seudun koulutuskuntayhtymä\C#\Tulostus\Oma_projekti_1_2\Oma_projekti_1_2\obj\Debug\Oma_projekti_1_2.csproj.AssemblyReference.cache
+C:\Users\183105\OneDrive - Salon seudun koulutuskuntayhtymä\C#\Tulostus\Oma_projekti_1_2\Oma_projekti_1_2\obj\Debug\Oma_projekti_1_2.csproj.CoreCompileInputs.cache
+C:\Users\183105\OneDrive - Salon seudun koulutuskuntayhtymä\C#\Tulostus\Oma_projekti_1_2\Oma_projekti_1_2\obj\Debug\Oma_projekti_1_2.exe
+C:\Users\183105\OneDrive - Salon seudun koulutuskuntayhtymä\C#\Tulostus\Oma_projekti_1_2\Oma_projekti_1_2\obj\Debug\Oma_projekti_1_2.pdb
+C:\Users\DTD\Documents\колледж Сало\С-sharp\Проект\Oma_projekti_1_2\Oma_projekti_1_2\bin\Debug\Oma_projekti_1_2.exe.config
+C:\Users\DTD\Documents\колледж Сало\С-sharp\Проект\Oma_projekti_1_2\Oma_projekti_1_2\bin\Debug\Oma_projekti_1_2.exe
+C:\Users\DTD\Documents\колледж Сало\С-sharp\Проект\Oma_projekti_1_2\Oma_projekti_1_2\bin\Debug\Oma_projekti_1_2.pdb
+C:\Users\DTD\Documents\колледж Сало\С-sharp\Проект\Oma_projekti_1_2\Oma_projekti_1_2\obj\Debug\Oma_projekti_1_2.csproj.AssemblyReference.cache
+C:\Users\DTD\Documents\колледж Сало\С-sharp\Проект\Oma_projekti_1_2\Oma_projekti_1_2\obj\Debug\Oma_projekti_1_2.csproj.CoreCompileInputs.cache
+C:\Users\DTD\Documents\колледж Сало\С-sharp\Проект\Oma_projekti_1_2\Oma_projekti_1_2\obj\Debug\Oma_projekti_1_2.exe
+C:\Users\DTD\Documents\колледж Сало\С-sharp\Проект\Oma_projekti_1_2\Oma_projekti_1_2\obj\Debug\Oma_projekti_1_2.pdb
